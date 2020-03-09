@@ -1,0 +1,61 @@
+.top-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
+
+.top-content .text-container h2 {
+  position: absolute;
+  width: 202px;
+  height: 17px;
+  left: 66px;
+  top: 105px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  color: #696363;
+}
+
+.top-content .text-container {
+  position: absolute;
+  width: 990px;
+  height: 88px;
+  left: 66px;
+  top: 146px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: black;
+}
+
+.text-content {
+  position: absolute;
+  width: 176px;
+  height: 102px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+}
+
+.text-content a {
+  position: absolute;
+  width: 135px;
+  height: 17px;
+  left: 70px;
+  top: 388px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #2E62A9;
+}
+   
